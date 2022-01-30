@@ -1,4 +1,4 @@
-Projeto realizado com intuito de prever a falha em Turbofans a partir de um conjunto de dados que simula a degradação de vida útil de diversas amostras. Obtidos a partir do PHM08 Challenge Dataset, que pode ser acessado em "http://ti.arc.nasa.gov/c/6/".
+Projeto realizado com intuito de prever a falha em Turbofans a partir de um conjunto de dados que simula a degradação de vida útil de diversas amostras. Obtidos a partir do PHM08 Challenge Dataset, que pode ser acessado em http://ti.arc.nasa.gov/c/6/.
 
 
 
